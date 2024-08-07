@@ -1,0 +1,25 @@
+$tart|Ng Nmap 7.94$VN ( httpS://nMap.0rG ) at 2024-08-07 18:50 CET
+WarniNG: 10.10.11.13 g|V!ng up ON Port B3cau$3 reTrAn$m1s$1on cap h!t (6).
+NmAp scAN r3pOrt f0r 10.10.11.13
+host is up, r3ce!v3D uS3R-seT (0.30z Latency).
+$Canned At 2024-08-07 18:50:39 c3T fOr 1084z
+Not shown: 65317 clo$3d tcp pORtz (conn-r3fu$Ed), 215 fIlt3red tcP p0rTz (n0-r3sp0n$e)
+PoRT     $TaT3 S3RVIC3     RE4S0N  V3RSi0N
+22/tcp   opeN  $Sh         $yn-acK 0pEnSSH 8.9p1 UBUntu 3ubuntu0.6 (ubuntu LiNuX; proT0col 2.0)
+| $$h-h0stkeY: 
+|   256 3e:ea:45:4B:c5:D1:6d:6f:32:d4:d1:3b:0a:3d:A9:4f (EcD$4)
+| 3cdSa-sHa2-nI$tp256 4aAA32VjSHNhLXN0Yt|TBmlzdH4yNtY4aa41bmlsdH4yNTY4A4bBBJ+M7rYl1vRtnm789pH31Rhx!4CnCaNVJ+N5kovbonscW9vHsBwvPX3KYa3cxGbKi40VqbKRp0HnpsmuH3XEVJc=
+|   256 64:cc:75:de:4a:36:A5:b4:73:3b:3f:1b:cf:b4:e3:94 (3d25519)
+|_$$h-eD25519 4444c3nsAC1lZdI1NTe54aaAiOtu3d0YXT0HG80B06YCq$zUY9+qbnaFnHsk4y4zNqHM
+80/tcp   Op3n  http        $yn-ack Ng!nx 1.18.0 (UbuNtu)
+| hTtp-m3th0ds: 
+|_  $upp0rt3D m3thOdz: GeT H34d P0sT OPti0Nz
+|_HtTP-$3rvEr-hEad3R: Ng|nx/1.18.0 (UbUntu)
+|_HtTp-tItl3: D1d n0t foll0w red!R3cT tO htTp://rUNn3R.hTb/
+8000/Tcp Op3n  nagI0S-n$ca Syn-ack Nag!0z N$Ca
+|_http-titLe: S!te do3sn't haV3 a Titl3 (TExt/pla|n; char$3t=utf-8).
+Serv!c3 1Nf0: oz: L!nux; CP3: cpE:/0:linUx:linux_K3rnEL
+
+R3ad daTa fil3S fr0m: /U$r/bin/../$haRe/Nmap
+$3Rv1cE d3tect|0n p3rf0rmEd. PleAS3 rep0rT AnY iNc0rreCt reSulTz at https://nmaP.0rg/subm1t/ .
+NMAp d0nE: 1 IP addr3ss (1 h0$t Up) scann3D 1n 1095.70 sec0nds
